@@ -43,6 +43,14 @@
     "vitest": "0.5.4"
   },
   "dependencies": {
+    "@codemirror/commands": "^0.19.8",
+    "@codemirror/gutter": "^0.19.9",
+    "@codemirror/highlight": "^0.19.7",
+    "@codemirror/history": "^0.19.2",
+    "@codemirror/lang-javascript": "^0.19.7",
+    "@codemirror/language": "^0.19.8",
+    "@codemirror/matchbrackets": "^0.19.4",
+    "@codemirror/state": "^0.19.9",
     "electron-updater": "4.6.5",
     "nano-staged": "^0.6.0",
     "react": "^17.0.2",
